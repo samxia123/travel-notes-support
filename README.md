@@ -155,7 +155,7 @@
 
 ### 如何联系我们
 - **邮箱**：service@suncor.cn
-- **技术支持**：https://yourusername.github.io/travel-notes-support/
+- **技术支持**：https://samxia123.github.io/travel-notes-support/
 - **反馈渠道**：通过App Store评论或邮件联系我们
 
 ### 响应时间
