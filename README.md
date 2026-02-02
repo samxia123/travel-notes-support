@@ -2,8 +2,6 @@
 [Travel Notes App 技术支持
 
 
-## 联系方式
-邮箱：service@suncor.cn
 
 ## 常见问题
 待更新...
@@ -160,7 +158,7 @@
 ## 11. 联系我们
 
 ### 如何联系我们
-- **邮箱**：your-email@example.com
+- **邮箱**：service@suncor.cn
 - **技术支持**：https://yourusername.github.io/travel-notes-support/
 - **反馈渠道**：通过App Store评论或邮件联系我们
 
