@@ -1,12 +1,8 @@
 # travel-notes-support
-[Travel Notes App 技术支持
-
-
 
 ## 常见问题
 待更新...
 
-## 隐私政策
 
 # Travel Notes 隐私政策
 
