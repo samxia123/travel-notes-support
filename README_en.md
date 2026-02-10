@@ -1,10 +1,10 @@
-Travel Notes Support
+# Travel Notes Support
 
-Contact
+## Contact
 Email：service@suncor.cn
 
-Common Questions
+## Common Questions
 to be updated...
 
-Privacy Policy
+## Privacy
 to be updated...
